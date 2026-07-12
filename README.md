@@ -4,7 +4,5 @@ Hi! I'm Randy Hong, a Neuroscience Ph.D. student at the University of California
 
 I graduated Summa Cum Laude from Hobart and William Smith Colleges with my Bachelor's degree in Computational Neuroscience and a minor in Physics, while attending with a full-tuition scholarship provided by the Posse Foundation. At the institution, I successfully defended my honors thesis, where I studied edge weight asymmetries on the mammalian brain connectome using a Markovian agent message-passing model. Simultaneously, I pursued and completed a passion project in engineering an sEMG-controlled prosthesis for upper-limb amputees, which was highlighted by the institution.
 
-My fascination lies in domains where mathematics is applied to solve challenging problems. Let's connect if there are prospects of future collaboration! 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-hong/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranhong@ucdavis.edu)
