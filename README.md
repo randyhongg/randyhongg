@@ -10,5 +10,5 @@ I am a Neuroscience Ph.D. student at the University of California, Davis. My res
 
 Feel free to reach me at:  
 
-Email: ranhong@ucdavis.edu  
-LinkedIn: https://linkedin.com/randy-hong  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-hong/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranhong@ucdavis.edu)
